@@ -4,7 +4,8 @@ Welcome to my collection of Python mini projects! These are small, beginner-frie
 
 ## Projects Included 📚
 
- **Translator** ➗  
+ **Translator** ![image](https://github.com/user-attachments/assets/bc8c640e-a5cc-4cc1-8b6a-8f015038585d)
+  
    The code allows you to create an app using Google Translator for fast and accurate translations.
 
 ## Contributing 🤝
