@@ -1,0 +1,28 @@
+/contextual_translation_dataset.csv
+/Context_beased.py
+/CSV_Format_Code.py
+/Dataset.json
+/Dataset_MLT
+/Human_Feedback
+/jw.png
+/JW_Trans.py
+/Manuel_check
+/model.keras
+/model.png
+/Moji.png
+/Moji_Trans.py
+/mt5-fine-tuned
+/Neuer_Model
+/results
+/Spelling Ckecker.py
+/Test.py
+/test_model.png
+/test_neu.py
+/TextToSpeech.py
+/TrainedModel
+/TrainedModel_Custom
+/trans.png
+/Update Your Custom Model to Match MarianMT.py
+/Updated_Model
+/wmt14_translate_de-en_train.json
+/__pycache__
